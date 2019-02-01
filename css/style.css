@@ -1,6 +1,4 @@
 /*
-Template Name: Callie HTML Template
-Author: yaminncco
 
 Colors:
 	Body 		  : #505050
@@ -434,7 +432,7 @@ textarea.input {
 
 .nav-menu>li>a {
   display: block;
-  padding: 25px 15px;
+  padding: 25px 60px;
   line-height: 20px;
   font-weight: 700;
   text-transform: uppercase;
