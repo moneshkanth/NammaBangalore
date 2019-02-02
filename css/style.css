@@ -185,7 +185,13 @@ figure>figcaption {
   padding-right: 10px;
   z-index: 20;
 }
+.admin-bar a#sidr-left-top-button {
+    top: 56px;
+}
 
+.admin-bar .page-section {
+    padding: 99px 0;
+}
 .section-title:after {
   content: "";
   display: inline-block;
